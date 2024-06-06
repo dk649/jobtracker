@@ -1,7 +1,7 @@
 import React from "react";
 
-function JpbsPage() {
-  return <div>JpbsPage</div>;
-}
+const JobsPage = () => {
+  return <div>Jobs Page</div>;
+};
 
-export default JpbsPage;
+export default JobsPage;
